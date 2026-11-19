@@ -27,7 +27,7 @@ We build trading bots and run them in public.
 
 ### 💛 Support
 
-- 🙌 Like what we do? [Support the project](https://plmr.tech/support).
+- 🙌 [Support the project](https://plmr.tech/support) if you like what we do.
 - ⭐ A follow or a share helps too.
 
 ⚡ Fun fact: the bot never sleeps, so neither do our alerts.
